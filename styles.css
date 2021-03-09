@@ -1,0 +1,132 @@
+/********************TAG SELECTORS*******************/
+body{
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+background-color: #e4f9f5;
+}
+hr {
+  padding-bottom: 30px;
+    border-style:dotted none none;
+    width:7%;
+    border-width: 10px;
+    padding-top:30px;
+
+ }
+h1{
+  margin-top:;
+  margin-bottom: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+font-size: 50px;
+  color: #1e836c;
+}
+h2{
+  font-family: sans-serif;
+  color: #1e836c;
+  font-size: 50px;
+}
+h3{
+  font-family: sans-serif;
+background-color:  #bbf1fa;
+}
+div {
+  background-color:#bbf1fa;
+}
+/***************************CLASS SELECTORS***********************/
+.mountain-img{
+  padding-bottom: 30px;
+}
+.kevo{
+  padding-top: 25px;
+
+  background-color: #bbf1fa;
+  margin-left: 550px;
+  margin-right: 500px;
+  width: 800px;
+}
+
+
+
+
+
+
+
+
+
+.sports-container{
+  background-color: #bbf1fa;
+  width: 800px;
+  height: 200px;
+  margin-left: 540px;
+  font-size: 20px;
+}
+
+.Programming-container{
+  width: 800px;
+  height: 200px;
+margin-left: 500px;
+font-size: 20px;
+  background-color:#bbf1fa;
+}
+
+.pro{
+font-size: 12px;
+
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 485px;
+  bottom:750px;
+
+}
+.top-cloud{
+  position: absolute;
+  right:550px;
+  top:10px;
+}
+.codeimage{
+height: 250px
+}
+.footer-link{
+  background-color: #bbf1fa;
+  height: 100px;
+
+  padding-top: 40px;
+}
+.boy-image{
+  margin-top: 40px;
+}
+.my-skills{
+  padding-bottom: 30px;
+}
+.top-container{
+  background-color:  #bbf1fa;
+}
+
+
+
+.myButton {
+	box-shadow: 0px 1px 0px 0px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:6px;
+	border:1px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:15px 76px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
